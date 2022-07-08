@@ -50,7 +50,7 @@ export default function CoinsTable() {
   });
 
   const classes = useStyles();
-  const history = useHistory();
+  //const history = useHistory();
 
   const darkTheme = createTheme({
     palette: {
